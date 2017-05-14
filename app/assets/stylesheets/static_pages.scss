@@ -1,3 +1,28 @@
-// Place all the styles related to the static_pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  font-size: 2em;
+  color: black;
+  text-align: left;
+  padding-top:60px;
+}
+.navbar{
+  margin-left: -8px;
+  font-family: Georgia, Rockwell, Palatino, serif;
+  float: right;
+  background-color: black;
+  color: white;
+  letter-spacing: 0.05em;
+  font-size: 1.1em;
+  padding-top: 13px;
+  padding-right: 5px;
+}
+.project {
+  font-family: Georgia, Rockwell, Palatino, serif;
+  background-color: black;
+  color: white;
+  letter-spacing: 0.05em;
+  font-size: 1.1em;
+}
+.navbar ul li {
+  padding-left: 15px;
+}
